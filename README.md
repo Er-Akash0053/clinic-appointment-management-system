@@ -48,7 +48,7 @@ A FastAPI-based healthcare management system that enables patient registration, 
 ## Installation
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Er-Akash0053/clinic-appointment-management-system.git
 
 cd clinic-appointment-management-system
 
